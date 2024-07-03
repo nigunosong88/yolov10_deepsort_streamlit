@@ -10,10 +10,10 @@
 ![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/main/img/2.jpg)
 
 ## 畫框結果
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/output/box.git)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/main/output/box.gif)
 
 ## 畫線結果
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/output/line.git)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/main/output/line.gif)
 
 
 
