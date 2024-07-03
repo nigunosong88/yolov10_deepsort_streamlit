@@ -29,7 +29,7 @@ def main(_argv):
     if uploaded_file is not None:
         cap = initialize_video_capture(uploaded_file)
         
-        tab1, tab2 = st.tabs(["📈 Chart", "🗃 Data"])
+        tab1, tab2 = st.tabs(["📈 BOX", "🗃 LINE"])
         one_image=initialize_video_image(cap)
         two_img=one_image
         
