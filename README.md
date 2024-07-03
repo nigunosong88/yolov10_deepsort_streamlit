@@ -4,16 +4,16 @@
 本系統使用 streamlit 做出一個簡易介面，可以任意調整框的大小或者是線的Y軸，實踐出yolov10的跟蹤功能，跟蹤使用deepsort
 
 ## 初始畫框畫面
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/img/1.jpg)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/main/img/1.jpg)
 
 ## 基礎畫線畫面
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/img/2.jpg)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/main/img/2.jpg)
 
 ## 畫框結果
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/output/box.git)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/output/box.git)
 
 ## 畫線結果
-![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/output/line.git)
+![image](https://github.com/nigunosong88/yolov10_deepsort_streamlit/blob/output/line.git)
 
 
 
